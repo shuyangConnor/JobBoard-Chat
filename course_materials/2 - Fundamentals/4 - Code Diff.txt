@@ -1,0 +1,1 @@
+https://github.com/graphql-by-example/hello-world/commit/52cf9c8f02d7bd4866749cdb0ffdecb528d1f769

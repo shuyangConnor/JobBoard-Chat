@@ -1,0 +1,1 @@
+https://the-guild.dev/blog/unleash-the-power-of-fragments-with-graphql-codegen
