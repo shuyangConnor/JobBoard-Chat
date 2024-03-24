@@ -1,1 +1,0 @@
-https://github.com/graphql-by-example/job-board/commit/a087ff1b650441c8f559539955bcc80d7460fe28
